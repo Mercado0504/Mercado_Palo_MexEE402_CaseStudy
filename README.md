@@ -15,7 +15,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Surname, First Name |Mercado, Christian |Mexe - 4103 |
-| Surname, First Name |Palo, Yiestene |Mexe - 4103 |
+| Palo, Yiestene | 22-04486 | Mexe - 4103 |
 
 ## 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 𝐥𝐢𝐧𝐤𝐬
 

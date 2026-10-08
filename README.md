@@ -21,9 +21,9 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Mercado, Christian | Member 2 |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
+| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1CwPB3wUb3k4n09dz6jncVc5an9by-VGZ#scrollTo=R2-n79fV82uk |
+| Ch4 | [link]() | https://colab.research.google.com/drive/1kKW6SMR9tP7P9B2ZX9Z0vY5o665xlEcT |
+| Ch5 | [link]() | https://colab.research.google.com/drive/1GZvGgKPqXEqGkX_t6BdvwUf16uOjNeZU |
 | Ch6 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing | [link]() |
 | Ch7 | https://colab.research.google.com/drive/1Xgv-4IfFOBhqsLEZiLaqDmwZ7ie5YKf4?usp=sharing | [link]() |
 | Ch8 | https://colab.research.google.com/drive/11iFJWV1vmR2Jk0GOPxjNruIAu_HAzsKe?usp=sharing | [link]() |
@@ -40,6 +40,17 @@ you and what surprised you. Not what the library does, but what you understood.
 
 
 
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 1_2_3
+
+These chapter taught us that data preprocessing is necessary to do before applying the data to any model to ensure that we will have clean data and all the issues we found are addressed. We also learned that there are different ways to handle the missing values. What surprised us the most was when there are missing values you can choose between two options whether to delete the row or imputation and what's really surprising is the imputation wherein you can compute for the average and that is the data we can use to fill in for the missing data so we don't have to delete them. Also one more thing, cleaning the data is just a few simple steps to make the messy raw data more accurate and ready to use for any model.
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 4
+
+This chapter taught us that feature engineering means that creating or changing columns so the data will show patterns more clearly, like binning the temperatures or making ratios such as lemonade per degree. The part we understood the best was when choosing what encoding to use, ordinal encoding when they have a natural order, like Little, Medium and Lots while, one-hot encoding when the categories have no order like Sunny, Cloudy and Rainy. What surprised us the most was that we can make new useful information just by combining the columns that we already have, like dividing the lemonade sold by temperature. This showed us that the way we prepare the data is as important as the data itself.
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 5
+
+This chapter taught us that data scaling makes the features on a similar scale so that the model can treat them equally. In the student example, Grades had much bigger numbers than the Study Hours, so without data scaling the model will favor only the grades because it has larger values even if it is both equally important. We learned two ways to fix this, StandardScaler which will change each column so the mean will be 0 and standard deviation to 1 and MinMaxScaler, which changes the values to fit between 0 and 1. What surprised us the most was that a feature can dominate a model because of its higher value not because it is more important than the other.
 
 ## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟔
 

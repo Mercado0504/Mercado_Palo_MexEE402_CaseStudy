@@ -25,7 +25,7 @@ Batangas State University, Alangilan Campus
 | Ch4 | [link]() | [link]() |
 | Ch5 | [link]() | [link]() |
 | Ch6 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing | [link]() |
-| Ch7 | https://colab.research.google.com/drive/1Xgv-4IfFOBhqsLEZiLaqDmwZ7ie5YKf4?usp=sharing | [link]() |
+| Ch7 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing | [link]() |
 | Ch8 | https://colab.research.google.com/drive/11iFJWV1vmR2Jk0GOPxjNruIAu_HAzsKe?usp=sharing | [link]() |
 | Ch9 | https://colab.research.google.com/drive/1LIQEpbuax5XyN5RFucoSy4H_ZHXC19yz?usp=sharing | [link]() |
 

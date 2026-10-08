@@ -19,7 +19,7 @@ Batangas State University, Alangilan Campus
 
 ## 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 𝐥𝐢𝐧𝐤𝐬
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Mercado, Christian | Member 2 |
 |---|---|---|
 | Ch1_2_3 | [link]() | [link]() |
 | Ch4 | [link]() | [link]() |

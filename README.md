@@ -32,9 +32,32 @@ Batangas State University, Alangilan Campus
 <h1 align="center">
 <b>𝐖𝐡𝐚𝐭 𝐰𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐝</b>
 </h1> 
-
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
+
+
+
+
+
+
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟔
+
+In Chapter 6, we learned that outliers are not simply data points that should be removed immediately, but values that need to be carefully examined because they can affect the accuracy and interpretation of an analysis. We learned how to use the Z-score and IQR methods to identify values that significantly differ from the majority of the data. What surprised us most was that the value 100 was clearly different from the other values, yet its Z-score was only approximately 2.53, which did not exceed the ±3 cutoff. This helped us understand that different methods can produce different results and that we should not rely on only one method when analyzing data. Overall, the chapter taught us the importance of careful analysis and proper judgment when handling outliers to produce more reliable and meaningful results.
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟕
+
+This chapter taught us that feature selection is an important part of data preprocessing because not every piece of information in a dataset is equally useful for prediction. We understood that selecting relevant features can make a model simpler, more efficient, and easier to interpret, while unnecessary features may affect its performance. What surprised us was that different feature selection methods, such as the Filter method, RFECV, and LassoCV, can choose different features even when they are applied to the same dataset. This helped us realize that feature selection is not simply about choosing the features with the highest values, but about understanding how each method evaluates the importance of the data. Overall, the chapter gave us a better understanding of how carefully selected features can contribute to building a more effective machine learning model.
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟖
+
+In Chapter 8, we learned how a preprocessing pipeline helps organize and standardize the preparation of data for machine learning. We understood that a pipeline works like a conveyor belt, where data passes through a series of steps, such as handling missing values and scaling features, before it is ready for analysis. We also gained a better understanding of how `SimpleImputer`, `StandardScaler`, and `ColumnTransformer` work together when processing the `Age` and `Fare` features of the Titanic dataset. What surprised us most was how a pipeline can reduce manual work and minimize the possibility of errors while keeping the preprocessing steps consistent. Overall, this chapter helped us realize that proper data preparation is just as important as building the machine learning model itself.
+
+
+## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 𝟗
+
+Chapter 9 taught us that data preprocessing is an important step in making raw data reliable and meaningful for analysis. We understood that handling missing values, transforming numerical features, encoding categorical data, reducing unnecessary information, and grouping values into meaningful categories can greatly improve the quality of a dataset. What surprised us most was that preprocessing is not simply a one-time process; it may need to be reviewed and adjusted depending on what we discover from the data and visualizations. We also realized that plots are useful not only for presenting results but also for helping us understand patterns and relationships that may not be obvious from the raw data. Overall, this chapter helped us appreciate that careful preparation of data is essential before using it for further analysis or machine learning.
+
 
 <h1 align="center">
 <b>𝐄𝐫𝐫𝐨𝐫𝐬 𝐰𝐞 𝐟𝐨𝐮𝐧𝐝</b>

@@ -21,7 +21,7 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Mercado, Christian | Member 2 |
 |---|---|---|
-| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1CwPB3wUb3k4n09dz6jncVc5an9by-VGZ#scrollTo=R2-n79fV82uk |
+| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1CwPB3wUb3k4n09dz6jncVc5an9by-VGZ |
 | Ch4 | [link]() | https://colab.research.google.com/drive/1kKW6SMR9tP7P9B2ZX9Z0vY5o665xlEcT |
 | Ch5 | [link]() | https://colab.research.google.com/drive/1GZvGgKPqXEqGkX_t6BdvwUf16uOjNeZU |
 | Ch6 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing | [link]() |

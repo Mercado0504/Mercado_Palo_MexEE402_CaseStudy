@@ -75,8 +75,7 @@ Chapter 9 taught us that data preprocessing is an important step in making raw d
 </h1> 
 
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+We used ChatGPT as an AI tool to help determine which algorithms require feature scaling and which do not. It helped us understand how scaling affects different machine learning algorithms and why it is important for methods that are sensitive to differences in feature magnitudes. We used the information as a reference to support our understanding of the topic and to help us identify when scaling is necessary, while considering the characteristics of each algorithm.
 
 <h1 align="center">
 <b>𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬</b>

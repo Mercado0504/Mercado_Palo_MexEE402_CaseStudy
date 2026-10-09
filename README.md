@@ -19,26 +19,19 @@ Batangas State University, Alangilan Campus
 
 ## 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 𝐥𝐢𝐧𝐤𝐬
 
-| Chapter | Mercado, Christian | Member 2 |
+| Chapter | Mercado, Christian | Palo, Yiestene |
 |---|---|---|
-| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1CwPB3wUb3k4n09dz6jncVc5an9by-VGZ |
-| Ch4 | [link]() | https://colab.research.google.com/drive/1kKW6SMR9tP7P9B2ZX9Z0vY5o665xlEcT |
-| Ch5 | [link]() | https://colab.research.google.com/drive/1GZvGgKPqXEqGkX_t6BdvwUf16uOjNeZU |
-| Ch6 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing | [link]() |
-| Ch7 | https://colab.research.google.com/drive/1Xgv-4IfFOBhqsLEZiLaqDmwZ7ie5YKf4?usp=sharing | [link]() |
-| Ch8 | https://colab.research.google.com/drive/11iFJWV1vmR2Jk0GOPxjNruIAu_HAzsKe?usp=sharing | [link]() |
-| Ch9 | https://colab.research.google.com/drive/1LIQEpbuax5XyN5RFucoSy4H_ZHXC19yz?usp=sharing | [link]() |
+| Ch1_2_3 |  | https://colab.research.google.com/drive/1CwPB3wUb3k4n09dz6jncVc5an9by-VGZ |
+| Ch4 |  | https://colab.research.google.com/drive/1kKW6SMR9tP7P9B2ZX9Z0vY5o665xlEcT |
+| Ch5 |  | https://colab.research.google.com/drive/1GZvGgKPqXEqGkX_t6BdvwUf16uOjNeZU |
+| Ch6 | https://colab.research.google.com/drive/1mHUySbNGVrnncpXGaCgQud3Y2I5LgEww?usp=sharing |  |
+| Ch7 | https://colab.research.google.com/drive/1Xgv-4IfFOBhqsLEZiLaqDmwZ7ie5YKf4?usp=sharing |  |
+| Ch8 | https://colab.research.google.com/drive/11iFJWV1vmR2Jk0GOPxjNruIAu_HAzsKe?usp=sharing |  |
+| Ch9 | https://colab.research.google.com/drive/1LIQEpbuax5XyN5RFucoSy4H_ZHXC19yz?usp=sharing |  |
 
 <h1 align="center">
 <b>𝐖𝐡𝐚𝐭 𝐰𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐝</b>
 </h1> 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
-
-
-
-
-
 
 ## 𝐂𝐡𝐚𝐩𝐭𝐞𝐫 1_2_3
 
@@ -74,9 +67,8 @@ Chapter 9 taught us that data preprocessing is an important step in making raw d
 <b>𝐄𝐫𝐫𝐨𝐫𝐬 𝐰𝐞 𝐟𝐨𝐮𝐧𝐝</b>
 </h1> 
 
+- In chapter 6, one mistake we found in the original notebook is the statement that 100 is a clear outlier based on the Z-score method. After checking the given data, the Z-score of 100 is approximately 2.62, which is below the ±3 cutoff used in the notebook, so it is not classified as an outlier using the Z-score method. However, the IQR method correctly identifies 100 as an outlier. The correct conclusion is that 100 is an extreme value, but whether it is considered an outlier depends on the method used.
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
 
 <h1 align="center">
 <b>𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐭𝐨𝐨𝐥𝐬</b>
@@ -94,4 +86,3 @@ Hiding it is.
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
-```

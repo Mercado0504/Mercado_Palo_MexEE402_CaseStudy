@@ -67,7 +67,7 @@ Chapter 9 taught us that data preprocessing is an important step in making raw d
 <b>𝐄𝐫𝐫𝐨𝐫𝐬 𝐰𝐞 𝐟𝐨𝐮𝐧𝐝</b>
 </h1> 
 
-- In chapter 6, one mistake we found in the original notebook is the statement that 100 is a clear outlier based on the Z-score method. After checking the given data, the Z-score of 100 is approximately 2.62, which is below the ±3 cutoff used in the notebook, so it is not classified as an outlier using the Z-score method. However, the IQR method correctly identifies 100 as an outlier. The correct conclusion is that 100 is an extreme value, but whether it is considered an outlier depends on the method used.
+- In chapter 6, one mistake we found in the original notebook is the statement that 100 is a clear outlier based on the Z-score method. After checking the given data, the Z-score of 100 is approximately 2.61501265, which is below the ±3 cutoff used in the notebook, so it is not classified as an outlier using the Z-score method. However, the IQR method correctly identifies 100 as an outlier. The correct conclusion is that 100 is an extreme value, but whether it is considered an outlier depends on the method used.
 
 
 <h1 align="center">
